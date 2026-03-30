@@ -7,6 +7,8 @@ body {
     width: 1440px;
     height: 735px;
 
+    header {
+        background-image: url(/images/image1.jpg)
 }
 
 footer {
